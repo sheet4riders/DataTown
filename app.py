@@ -278,7 +278,7 @@ st.caption("Propulsé par l'IA Claude d'Anthropic • Données: Open Data Orléa
 with st.sidebar:
     st.header("À propos")
     st.markdown("""
-    Ce chatbot utilise l'intelligence artificielle Claude pour comprendre vos questions et vous fournir des informations pertinentes sur les événements à Orléans Métropole.
+    Ce chatbot de démonstration, créé par DECISIONS & CO, utilise l'intelligence artificielle Claude pour comprendre vos questions et vous fournir des informations pertinentes sur les événements à Orléans Métropole.
     
     Exemples de questions:
     - "Y a-t-il des concerts ce week-end ?"
